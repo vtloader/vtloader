@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @MLSLi
-- 👀 I’m interested in 👀
+- 👋 Hi, I’m @MLSLi.
+- 👀 I’m interested in everything, yeaaaaaaaah.
 - 🌱 I’m currently learning how to be a human.()
 - 💞️ I’m looking to collaborate on myself.
-- 📫 How to reach me ___
-- 😄 Pronouns: ___
-- ⚡ Fun fact: ___
+- 📫 How to reach me: See my profile.
+- 😄 Pronouns: [???]
+- ⚡ Fun fact: Sleeping..........
 
 <!---
 MLSLi/MLSLi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
